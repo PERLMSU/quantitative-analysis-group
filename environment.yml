@@ -260,6 +260,7 @@ dependencies:
   - r-stringr=1.2.0=r342h701d218_0
   - r-uuid=0.1_2=r342h1393287_4
   - pip:
+    - mglearn==0.1.6
     - tables==3.4.2
 prefix: /home/john/anaconda3/envs/quantitative_group
 
